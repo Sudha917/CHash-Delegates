@@ -1,0 +1,7 @@
+G:\.net traing\Assignments\Day04\chashDelegates\chashDelegates\bin\Debug\chashDelegates.exe.config
+G:\.net traing\Assignments\Day04\chashDelegates\chashDelegates\bin\Debug\chashDelegates.exe
+G:\.net traing\Assignments\Day04\chashDelegates\chashDelegates\bin\Debug\chashDelegates.pdb
+G:\.net traing\Assignments\Day04\chashDelegates\chashDelegates\obj\Debug\chashDelegates.csprojAssemblyReference.cache
+G:\.net traing\Assignments\Day04\chashDelegates\chashDelegates\obj\Debug\chashDelegates.csproj.CoreCompileInputs.cache
+G:\.net traing\Assignments\Day04\chashDelegates\chashDelegates\obj\Debug\chashDelegates.exe
+G:\.net traing\Assignments\Day04\chashDelegates\chashDelegates\obj\Debug\chashDelegates.pdb
